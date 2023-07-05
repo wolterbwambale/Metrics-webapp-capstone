@@ -73,7 +73,7 @@ table tr:nth-child(even) {
 
   table {
     width: 100%;
-    margin: 0;
+    padding: 10px;
   }
 
   .search-container {
