@@ -1,10 +1,10 @@
-
 table {
   border-collapse: collapse;
   width: 80em;
   margin: 1em auto;
   box-sizing: border-box;
-  padding: 1em;
+  padding: 5em;
+  border-radius: 5px;
 }
 
 .btn-icon {
@@ -16,6 +16,7 @@ table {
 
 a {
   text-decoration: none;
+  font-size: 20px;
 }
 
 table th,
@@ -23,10 +24,6 @@ table td {
   text-align: left;
   padding: 8px;
   border: 1px solid #ddd;
-}
-
-table th {
-  background-color: #fff;
 }
 
 .detail {
@@ -38,7 +35,7 @@ table th {
   margin-left: 20%;
 }
 
-table .datail-table {
+table .detail-table {
   border-collapse: collapse;
   width: 80em;
   margin: 1em auto;
@@ -69,6 +66,11 @@ table tr:nth-child(even) {
 }
 
 @media (max-width: 600px) {
+  * {
+    background-color: #ec4c8a;
+    color: #fff;
+  }
+
   table {
     width: 100%;
     margin: 0;
@@ -85,7 +87,7 @@ table tr:nth-child(even) {
   }
 }
 
-@media (min-width: 601px) and (max-width: 899) {
+@media (min-width: 601px) and (max-width: 899px) {
   table {
     width: 80em;
     margin: 2em auto;
