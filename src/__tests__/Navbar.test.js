@@ -7,8 +7,7 @@ test('Navbar matches snapshot', () => {
   const { container } = render(
     <Router>
       <Navbar />
-    </Router>
+    </Router>,
   );
   expect(container).toMatchSnapshot();
 });
-

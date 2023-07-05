@@ -1,9 +1,9 @@
 import React from 'react';
 import { render } from '@testing-library/react';
 import { Provider } from 'react-redux';
+import { BrowserRouter as Router } from 'react-router-dom';
 import store from '../components/Redux/store';
 import DetailsPage from '../components/pages/DetailsPage';
-import { BrowserRouter as Router } from 'react-router-dom';
 
 test('DetailsPage matches snapshot', () => {
   const { container } = render(
@@ -11,7 +11,7 @@ test('DetailsPage matches snapshot', () => {
       <Router>
         <DetailsPage />
       </Router>
-    </Provider>
+    </Provider>,
   );
   expect(container).toMatchSnapshot();
 });

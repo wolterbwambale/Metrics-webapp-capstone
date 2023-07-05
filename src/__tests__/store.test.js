@@ -1,4 +1,4 @@
-import store from "../components/Redux/store";
+import store from '../components/Redux/store';
 
 describe('Store', () => {
   test('store matches the snapshot', () => {
