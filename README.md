@@ -157,13 +157,9 @@ Give a ⭐️ if you like this project! thankyou
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
->[Fontawsome](https://fontawesome.com/) Special thanks to fontawsome for the icons assets.
+> I would like to thank the Microverse community for their support.
 
-> Give credit to everyone who inspired your codebase.
-  Thanks to the Microverse team for the great curriculum.
-  Thanks to the Code Reviewer(s) for the insightful feedbacks.
-  A great thanks to My coding partner(s), morning session team, and standup team for their contributions.
-  Hat tip to anyone whose code was used.
+ I would like to thank Nelson Sakwa . the author of the original design
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
