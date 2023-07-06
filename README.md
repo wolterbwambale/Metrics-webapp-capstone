@@ -157,8 +157,6 @@ Give a ⭐️ if you like this project! thankyou
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
->[Fontawsome](https://fontawesome.com/) Special thanks to fontawsome for the icons assets.
-
 > I would like to thank the Microverse community for their support.
 
  I would like to thank Nelson Sakwa . the author of the original design
