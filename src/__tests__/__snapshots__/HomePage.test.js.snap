@@ -1,0 +1,72 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HomePage matches snapshot 1`] = `
+<div>
+  <h1>
+    Foreign Currency
+  </h1>
+  <div
+    class="search-container"
+  >
+    <input
+      class="search-input"
+      placeholder="Enter currency name"
+      type="text"
+      value=""
+    />
+  </div>
+  <table
+    class="container"
+  >
+    <colgroup>
+      <col
+        span="1"
+        style="width: 5%;"
+      />
+      <col
+        span="1"
+        style="width: 4%;"
+      />
+      <col
+        span="1"
+        style="width: 8%;"
+      />
+      <col
+        span="1"
+        style="width: 10%;"
+      />
+      <col
+        span="1"
+        style="width: 8%;"
+      />
+      <col
+        span="1"
+        style="width: 8%;"
+      />
+    </colgroup>
+    <thead>
+      <tr>
+        <th>
+          Cur Logo
+        </th>
+        <th>
+          Name
+        </th>
+        <th>
+          Symbol
+        </th>
+        <th>
+          Current Price
+        </th>
+        <th>
+          Market Cap
+        </th>
+        <th>
+          Market Cap Rank
+        </th>
+      </tr>
+    </thead>
+    <tbody />
+  </table>
+</div>
+`;
